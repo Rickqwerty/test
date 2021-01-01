@@ -1,2 +1,2 @@
-config-dev.yml on github
-modified
+config: 
+	info: config-dev.yml on github modified
